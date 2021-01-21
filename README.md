@@ -5,3 +5,7 @@ Topics are:
 3. Constructor overloading
 4. Operator overloading
 5. Friend Function and Friend class
+6. Inheritance.
+7. this pointer
+8. Method overriding and hiding
+9. Virtual functions.
