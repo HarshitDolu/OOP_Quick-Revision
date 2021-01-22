@@ -9,3 +9,7 @@ Topics are:
 7. this pointer
 8. Method overriding and hiding
 9. Virtual functions.
+10.Abstract class.
+11.Templates
+12.Initializer list
+13.Shallow and Deep copy.
