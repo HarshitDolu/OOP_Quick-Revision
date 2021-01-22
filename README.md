@@ -13,3 +13,5 @@ Topics are:
 11. Templates
 12. Initializer list
 13. Shallow and Deep copy
+14. Virtual destructor
+15. Conversions(class to primitive, primitive to class and class to class type)
