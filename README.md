@@ -18,3 +18,5 @@ Topics are:
 16. Exception Handling
 17. Dynamic constructor
 18. namespace and using directive
+19. private constructor and Singleton class
+20. Diamond of Death and Virtual base class
