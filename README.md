@@ -15,3 +15,6 @@ Topics are:
 13. Shallow and Deep copy
 14. Virtual destructor
 15. Conversions(class to primitive, primitive to class and class to class type)
+16. Exception Handling
+17. Dynamic constructor
+18. namespace and using directive
